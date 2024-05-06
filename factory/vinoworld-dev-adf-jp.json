@@ -1,0 +1,9 @@
+{
+	"name": "vinoworld-dev-adf-jp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6120b479-6aaf-49a2-9519-58a5ed14df0d",
+		"tenantId": "d633340b-a01b-459c-85ce-8335ddea9287"
+	}
+}
